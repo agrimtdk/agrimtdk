@@ -198,16 +198,6 @@ Building       → things that solve actual problems
 
 <br><br>
 
-<a href="https://github.com/agrimtdk">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/agrimtdk">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://agrim-sharma.framer.website/">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+<^+^>
 
 </div>
