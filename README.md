@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=27&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Agrim+Sharma;Software+Developer+%7C+ML+Enthusiast;I+like+turning+ideas+into+systems.;Always+building.+Always+learning." alt="Typing SVG" />
+# Agrim Sharma
 
-<br/>
+### Software Developer · ML Enthusiast · Codesigner
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=190&text=AGRIM%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=twinkling&color=0:09090b,18:1a0b0b,36:3b111f,54:2d123d,72:17251b,88:0f1a14,100:050505" width="100%"/>
+<br>
 
-<br/>
+> *“I see the hope in your heart.”*
+> **~ Broken Arrows**
+> **Avicii**
 
-### *“One day you'll leave this world behind, so live a life you will remember.”*
+<br>
 
-**~ Avicii**
+[GitHub](https://github.com/agrimtdk) · [LinkedIn](https://linkedin.com/in/agrimtdk) · [Portfolio](https://agrim-sharma.framer.website/)
 
 </div>
 
@@ -23,16 +25,12 @@ I'm **Agrim Sharma**, a developer who enjoys understanding how things work under
 I like working across the stack — from **algorithms and backend systems to machine learning and data** — rather than staying confined to one layer.
 
 ```text
-                ┌─────────────────────────────────────┐
-                │           AGRIM SHARMA              │
-                ├─────────────────────────────────────┤
-                │  Algorithms & Problem Solving        │
-                │  Machine Learning & AI               │
-                │  Backend & Systems                   │
-                │  Full-Stack Development              │
-                │  Data & Analytics                    │
-                │  Deployment & Infrastructure         │
-                └─────────────────────────────────────┘
+                    AGRIM SHARMA
+
+        Software Engineering × Machine Learning
+                    × Data × Systems
+
+        Build → Break → Understand → Improve
 ```
 
 > I don't just want code that works.
@@ -51,11 +49,9 @@ I like working across the stack — from **algorithms and backend systems to mac
 06  Breaking things → understanding them → fixing them
 ```
 
-I'm particularly interested in the space where:
+I'm particularly interested in the intersection of:
 
-**Software Engineering × Machine Learning × Data × Systems**
-
-meet.
+**Software Engineering · Machine Learning · Data · Systems**
 
 ---
 
@@ -73,7 +69,7 @@ meet.
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,vite" />
 </p>
 
-### Data / ML
+### Data & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
@@ -142,12 +138,12 @@ I learn best by going from **theory → implementation → failure → debugging
 
 ## `beyond code`
 
-* Interested in algorithms, system design and scalable software
-* Exploring practical machine learning
-* Interested in data-driven decision making
-* I care about UI/UX and visual polish too
-* Curious about research and experimentation
-* I enjoy taking an idea from **"what if?" → working implementation**
+* Algorithms and system design
+* Machine learning and intelligent applications
+* Data-driven decision making
+* UI/UX and visual design
+* Research and experimentation
+* Turning ideas into working systems
 
 ---
 
@@ -162,28 +158,11 @@ Building       → things that solve actual problems
 
 ---
 
-## `let's connect`
-
 <div align="center">
 
-<a href="https://github.com/agrimtdk">
-<img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
+### `let's connect`
 
-<a href="https://linkedin.com/in/agrimtdk">
-<img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-</a>
 
-<a href="https://agrim-sharma.framer.website/">
-<img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&animation=twinkling&color=0:050505,25:240b0b,50:351047,75:102719,100:050505" width="100%"/>
+\
 
 </div>
