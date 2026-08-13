@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=AGRIM%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=58A6FF&strokeWidth=2&color=0:0d1117,20:161b22,40:1f2937,60:312e81,80:172554,100:0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=190&text=AGRIM%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=twinkling&color=0:09090b,18:1a0b0b,36:3b111f,54:2d123d,72:17251b,88:0f1a14,100:050505" width="100%"/>
 
 <br/>
 
@@ -162,41 +162,21 @@ Building       → things that solve actual problems
 
 ---
 
-## `github activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=agrimtdk&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agrimtdk&theme=github-dark-blue&hide_border=true&background=0D1117" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimtdk&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 ## `let's connect`
 
 <div align="center">
 
 <a href="https://github.com/agrimtdk">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://linkedin.com/in/agrimtdk">
+<img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
 
 <a href="https://agrim-sharma.framer.website/">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
 </a>
-
-<br/><br/>
-
-**If you're building something interesting, I'm always interested in talking about it.**
 
 </div>
 
@@ -204,6 +184,6 @@ Building       → things that solve actual problems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=140&section=footer&text=&fontColor=ffffff&animation=twinkling&color=0:0d1117,20:172554,40:312e81,60:1e1b4b,80:0f172a,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&animation=twinkling&color=0:050505,25:240b0b,50:351047,75:102719,100:050505" width="100%"/>
 
 </div>
