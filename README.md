@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Agrim+%F0%9F%91%8B;Software+Developer+%7C+ML+Enthusiast;I+like+turning+ideas+into+systems.;Always+building.+Always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=27&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Agrim+Sharma;Software+Developer+%7C+ML+Enthusiast;I+like+turning+ideas+into+systems.;Always+building.+Always+learning." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=header&text=AGRIM&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=AGRIM%20SHARMA&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=58A6FF&strokeWidth=2&color=0:0d1117,20:161b22,40:1f2937,60:312e81,80:172554,100:0d1117" width="100%"/>
 
 <br/>
 
-### `◢ AVICII ◣`
+### *“One day you'll leave this world behind, so live a life you will remember.”*
 
-```text
-      ██████╗   ██████╗
-     ██╔═══██╗ ██╔═══██╗
-     ╚═╝   ╚═╝ ╚═╝   ╚═╝
-        A V I C I I
-      ░▒▓ PIXELS ▓▒░
-```
-
-*“One day you'll leave this world behind, so live a life you will remember.”*
+**~ Avicii**
 
 </div>
 
@@ -26,20 +18,20 @@
 
 ## `whoami`
 
-I'm **Agrim**, a developer who enjoys understanding how things work under the hood and turning that understanding into something useful.
+I'm **Agrim Sharma**, a developer who enjoys understanding how things work under the hood and turning that understanding into something useful.
 
 I like working across the stack — from **algorithms and backend systems to machine learning and data** — rather than staying confined to one layer.
 
 ```text
                 ┌─────────────────────────────────────┐
-                │                 AGRIM                │
+                │           AGRIM SHARMA              │
                 ├─────────────────────────────────────┤
-                │  🧠  Algorithms & Problem Solving    │
-                │  🤖  Machine Learning & AI           │
-                │  ⚙️  Backend & Systems               │
-                │  🌐  Full-Stack Development          │
-                │  📊  Data & Analytics                │
-                │  ☁️  Deployment & Infrastructure     │
+                │  Algorithms & Problem Solving        │
+                │  Machine Learning & AI               │
+                │  Backend & Systems                   │
+                │  Full-Stack Development              │
+                │  Data & Analytics                    │
+                │  Deployment & Infrastructure         │
                 └─────────────────────────────────────┘
 ```
 
@@ -132,7 +124,7 @@ Data
              └──────┬───────┘
                     ↓
              ┌──────────────┐
-             │   DEBUG      │
+             │    DEBUG     │
              └──────┬───────┘
                     ↓
              ┌──────────────┐
@@ -165,7 +157,7 @@ I learn best by going from **theory → implementation → failure → debugging
 Learning       → deeper system design & backend architecture
 Exploring      → ML engineering & intelligent applications
 Improving      → software design & problem solving
-Building      → things that solve actual problems
+Building       → things that solve actual problems
 ```
 
 ---
@@ -174,13 +166,13 @@ Building      → things that solve actual problems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agrimtdk&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agrimtdk&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrimtdk&theme=github-dark-blue&hide_border=true&background=0D1117" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimtdk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agrimtdk&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -191,15 +183,15 @@ Building      → things that solve actual problems
 <div align="center">
 
 <a href="https://github.com/agrimtdk">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://linkedin.com/in/agrimtdk">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://agrim-sharma.framer.website/">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
 </a>
 
 <br/><br/>
@@ -212,6 +204,6 @@ Building      → things that solve actual problems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=140&section=footer&text=&fontColor=ffffff&animation=twinkling&color=0:0d1117,20:172554,40:312e81,60:1e1b4b,80:0f172a,100:020617" width="100%"/>
 
 </div>
