@@ -7,7 +7,7 @@
 <br>
 
 > *“I see the hope in your heart.”* <br>
-> **~ Broken Arrows**
+> ~ Broken Arrows
 > **Avicii**
 
 <br>
