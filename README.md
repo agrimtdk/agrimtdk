@@ -2,27 +2,15 @@
 
 # Agrim Sharma
 
-### Software Developer · ML Enthusiast · CoDesigner
+### Software Developer · ML Enthusiast · Codesigner
 
 <br>
 
 > *“I see the hope in your heart.”*
-> ~ Broken Arrows, 
+> ~ Broken Arrows,
 > **Avicii**
 
 <br>
-
-<a href="https://github.com/agrimtdk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/agrimtdk">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://agrim-sharma.framer.website/">
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 
 </div>
 
@@ -197,6 +185,18 @@ Building       → things that solve actual problems
 <img src="https://img.shields.io/badge/%5B%20let's%20connect%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
 
 <br><br>
+
+<a href="https://github.com/agrimtdk">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/agrimtdk">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://agrim-sharma.framer.website/">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 <^+^>
 
