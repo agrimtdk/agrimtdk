@@ -2,23 +2,37 @@
 
 # Agrim Sharma
 
-### Software Developer · ML Enthusiast · Codesigner
+### Software Developer · ML Enthusiast · CoDesigner
 
 <br>
 
-> *“I see the hope in your heart.”* <br>
-> ~ Broken Arrows
+> *“I see the hope in your heart.”*
+> **~ Broken Arrows**
 > **Avicii**
 
 <br>
 
-[GitHub](https://github.com/agrimtdk) · [LinkedIn](https://linkedin.com/in/agrimtdk) · [Portfolio](https://agrim-sharma.framer.website/)
+<a href="https://github.com/agrimtdk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/agrimtdk">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://agrim-sharma.framer.website/">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
 
-## `whoami`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%5B%20whoami%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
+
+</div>
 
 I'm **Agrim Sharma**, a developer who enjoys understanding how things work under the hood and turning that understanding into something useful.
 
@@ -38,7 +52,11 @@ I like working across the stack — from **algorithms and backend systems to mac
 
 ---
 
-## `what i enjoy`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%5B%20what%20i%20enjoy%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
+
+</div>
 
 ```text
 01  Building things from scratch
@@ -55,7 +73,11 @@ I'm particularly interested in the intersection of:
 
 ---
 
-## `my toolkit`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%5B%20my%20toolkit%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
+
+</div>
 
 ### Languages
 
@@ -100,7 +122,11 @@ Data
 
 ---
 
-## `the way i learn`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%5B%20the%20way%20i%20learn%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
+
+</div>
 
 ```text
              ┌──────────────┐
@@ -136,7 +162,11 @@ I learn best by going from **theory → implementation → failure → debugging
 
 ---
 
-## `beyond code`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%5B%20beyond%20code%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
+
+</div>
 
 * Algorithms and system design
 * Machine learning and intelligent applications
@@ -147,7 +177,11 @@ I learn best by going from **theory → implementation → failure → debugging
 
 ---
 
-## `currently`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%5B%20currently%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
+
+</div>
 
 ```text
 Learning       → deeper system design & backend architecture
@@ -160,9 +194,20 @@ Building       → things that solve actual problems
 
 <div align="center">
 
-### `let's connect`
+<img src="https://img.shields.io/badge/%5B%20let's%20connect%20%5D-161b22?style=flat-square&labelColor=0d1117&color=21262d" />
 
+<br><br>
 
-\
+<a href="https://github.com/agrimtdk">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/agrimtdk">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://agrim-sharma.framer.website/">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 </div>
